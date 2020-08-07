@@ -1,1 +1,2 @@
 # Disaster-Tweet-Competition
+This particular challenge is perfect for data scientists looking to get started with Natural Language Processing. We show you the results of experiments that we did. This repository not include any code; instead, it show you how you can improve your skill in analyzing and getting results from this kind of task using "less" and "more" clever models and data augumentation techniques. Also, we introduce you how push your mind towards Natural Language Processing.
